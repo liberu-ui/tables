@@ -10,7 +10,7 @@ DataTable Vue Components with a Bulma implementation over a renderless core
 
 ## Usage
 
-Unless where specified otherwise, the components can be used outside of the Enso ecosystem.
+Unless where specified otherwise, the components can be used outside of the Liberu ecosystem.
 
 ### Demo
 
@@ -51,7 +51,7 @@ Issues not conforming to the guidelines may be closed immediately.
 
 are welcome. Pull requests are great, but issues are good too.
 
-Thank you to all the people who already contributed to Enso!
+Thank you to all the people who already contributed to Liberu!
 
 ## License
 
