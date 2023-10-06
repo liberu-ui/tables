@@ -1,5 +1,5 @@
 import Range from './Range';
-import format from '@enso-ui/date/src/format';
+import format from '@liberu-ui/date/src/format';
 
 class Date extends Range {
     constructor(filter) {
