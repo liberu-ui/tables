@@ -21,7 +21,7 @@
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faTable } from '@fortawesome/free-solid-svg-icons';
-import { VueSelect } from '@enso-ui/select/bulma';
+import { VueSelect } from '@liberu-ui/select/bulma';
 import CoreStyleSelector from '../../../renderless/parts/top/CoreStyleSelector.vue';
 
 library.add(faTable);

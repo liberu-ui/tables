@@ -21,7 +21,7 @@
 <script>
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faTimes } from '@fortawesome/free-solid-svg-icons';
-import { clickOutside } from '@enso-ui/directives';
+import { clickOutside } from '@liberu-ui/directives';
 import Boolean from './Boolean.vue';
 import String from './String.vue';
 import Enum from './Enum.vue';

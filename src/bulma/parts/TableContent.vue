@@ -40,7 +40,7 @@
 </template>
 
 <script>
-import Loader from '@enso-ui/loader/bulma';
+import Loader from '@liberu-ui/loader/bulma';
 import TopControls from './top/Controls.vue';
 import TableHeader from './TableHeader.vue';
 import TableBody from './TableBody.vue';

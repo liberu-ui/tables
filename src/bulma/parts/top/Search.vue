@@ -40,7 +40,7 @@
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faSearch, faFilter } from '@fortawesome/free-solid-svg-icons';
-import SearchMode from '@enso-ui/search-mode/bulma';
+import SearchMode from '@liberu-ui/search-mode/bulma';
 import CoreSearch from '../../../renderless/parts/top/CoreSearch.vue';
 import Filters from './Filters.vue';
 

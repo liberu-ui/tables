@@ -1,10 +1,10 @@
 # Tables
 
-![npm license](https://img.shields.io/npm/l/@enso-ui/tables.svg) 
-![npm download](https://img.shields.io/npm/dm/@enso-ui/tables.svg) 
-![GitHub top language](https://img.shields.io/github/languages/top/enso-ui/tables.svg) 
-![GitHub issues](https://img.shields.io/github/issues/enso-ui/tables.svg) 
-![npm version](https://img.shields.io/npm/v/@enso-ui/tables.svg) 
+![npm license](https://img.shields.io/npm/l/@liberu-ui/tables.svg) 
+![npm download](https://img.shields.io/npm/dm/@liberu-ui/tables.svg) 
+![GitHub top language](https://img.shields.io/github/languages/top/liberu-ui/tables.svg) 
+![GitHub issues](https://img.shields.io/github/issues/liberu-ui/tables.svg) 
+![npm version](https://img.shields.io/npm/v/@liberu-ui/tables.svg) 
 
 DataTable Vue Components with a Bulma implementation over a renderless core
 
@@ -32,10 +32,10 @@ Issues not conforming to the guidelines may be closed immediately.
 
 ## Depends on
 
-- `@enso-ui/directives`,
-- `@enso-ui/dropdown`,
-- `@enso-ui/loader`,
-- `@enso-ui/modal`,
+- `@liberu-ui/directives`,
+- `@liberu-ui/dropdown`,
+- `@liberu-ui/loader`,
+- `@liberu-ui/modal`,
 - `@fortawesome/fontawesome-free`,
 - `@fortawesome/fontawesome-svg-core`,
 - `@fortawesome/free-solid-svg-icons`,

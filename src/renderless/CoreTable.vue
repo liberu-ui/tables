@@ -1,6 +1,6 @@
 <script>
 import { debounce } from 'lodash';
-import Enum from '@enso-ui/enums';
+import Enum from '@liberu-ui/enums';
 import NumberFormatter from './services/NumberFormatter';
 
 export default {

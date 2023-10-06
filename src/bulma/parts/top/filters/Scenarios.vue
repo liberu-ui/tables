@@ -71,7 +71,7 @@ import { library } from '@fortawesome/fontawesome-svg-core';
 import {
     faSave, faTrashAlt, faPencilAlt, faBan, faCheck, faTimes,
 } from '@fortawesome/free-solid-svg-icons';
-import { focus, selectOnFocus, resize } from '@enso-ui/directives';
+import { focus, selectOnFocus, resize } from '@liberu-ui/directives';
 
 library.add(faSave, faTrashAlt, faPencilAlt, faBan, faCheck, faTimes);
 

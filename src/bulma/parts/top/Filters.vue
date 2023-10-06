@@ -56,7 +56,7 @@
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faFilter } from '@fortawesome/free-solid-svg-icons';
-import { Dropdown, DropdownItem } from '@enso-ui/dropdown/bulma';
+import { Dropdown, DropdownItem } from '@liberu-ui/dropdown/bulma';
 import Boolean from './filters/Boolean.vue';
 import String from './filters/String.vue';
 import Enum from './filters/Enum.vue';

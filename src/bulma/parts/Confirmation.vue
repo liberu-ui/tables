@@ -28,8 +28,8 @@
 </template>
 
 <script>
-import { focus } from '@enso-ui/directives';
-import { Modal } from '@enso-ui/modal/bulma';
+import { focus } from '@liberu-ui/directives';
+import { Modal } from '@liberu-ui/modal/bulma';
 
 export default {
     name: 'Confirmation',

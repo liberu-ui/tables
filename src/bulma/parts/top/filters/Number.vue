@@ -41,7 +41,7 @@
 </template>
 
 <script>
-import { focus } from '@enso-ui/directives';
+import { focus } from '@liberu-ui/directives';
 
 export default {
     name: 'Number',

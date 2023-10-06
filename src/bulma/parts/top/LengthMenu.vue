@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { VueSelect } from '@enso-ui/select/bulma';
+import { VueSelect } from '@liberu-ui/select/bulma';
 import CoreLengthMenu from '../../../renderless/parts/top/CoreLengthMenu.vue';
 
 export default {

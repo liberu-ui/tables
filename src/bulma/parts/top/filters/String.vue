@@ -15,8 +15,8 @@
 </template>
 
 <script>
-import SearchMode from '@enso-ui/search-mode/bulma';
-import { focus } from '@enso-ui/directives';
+import SearchMode from '@liberu-ui/search-mode/bulma';
+import { focus } from '@liberu-ui/directives';
 
 export default {
     name: 'String',
