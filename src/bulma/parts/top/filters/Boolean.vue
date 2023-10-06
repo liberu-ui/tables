@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import VueSwitch from '@enso-ui/switch/bulma';
+import VueSwitch from '@liberu-ui/switch/bulma';
 
 export default {
     name: 'Boolean',

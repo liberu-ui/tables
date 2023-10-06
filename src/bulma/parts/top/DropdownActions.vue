@@ -37,7 +37,7 @@
 import { FontAwesomeIcon as Fa } from '@fortawesome/vue-fontawesome';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import { faCogs } from '@fortawesome/free-solid-svg-icons';
-import { Dropdown, DropdownItem } from '@enso-ui/dropdown/bulma';
+import { Dropdown, DropdownItem } from '@liberu-ui/dropdown/bulma';
 import CoreDropdownActions from '../../../renderless/parts/top/CoreDropdownActions.vue';
 import Control from './Control.vue';
 

@@ -45,8 +45,8 @@
 </template>
 
 <script>
-import { Datepicker } from '@enso-ui/datepicker/bulma';
-import { focus } from '@enso-ui/directives';
+import { Datepicker } from '@liberu-ui/datepicker/bulma';
+import { focus } from '@liberu-ui/directives';
 
 export default {
     name: 'Date',
