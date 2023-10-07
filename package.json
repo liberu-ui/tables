@@ -2,7 +2,7 @@
   "name": "@liberu-ui/tables",
   "version": "3.3.4",
   "description": "Tables",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
